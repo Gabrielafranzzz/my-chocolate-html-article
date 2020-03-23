@@ -4,6 +4,7 @@
 
 h1 {
   font-size: 2rem;
+  font-weight: 900;
   text-align: center;
 }
 
@@ -12,6 +13,9 @@ body {
   font-family: 'Playfair Display', serif;
   max-width: 80ch;
   margin: 0 auto;
+  border: 2px solid black;
+  padding: 10px;
+  text-align: justify;
 }
 
 h1,
@@ -21,6 +25,7 @@ h4,
 h5,
 h6 {
   font-family: 'Libre Caslon Display', serif;
+  font-weight: 600;
   max-width: 80ch;
   margin: 0 auto;
 }
