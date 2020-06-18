@@ -1,21 +1,25 @@
 :root {
   font-size: 16px;
+  justify-content: center;
+  --variable-strong-color: #6b110d;
+  --variable-background-color: #f4ded5;
 }
 
 h1 {
   font-size: 2rem;
   font-weight: 900;
   text-align: center;
+  color: var(--variable-strong-color);
 }
 
-
 body {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
+  line-height: 1.6;
   max-width: 80ch;
   margin: 0 auto;
-  border: 2px solid black;
-  padding: 10px;
-  text-align: justify;
+  text-align: center;
+  background-color: var(--variable-background-color);
+  color: var(--variable-strong-color);
 }
 
 h1,
@@ -24,8 +28,43 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Libre Caslon Display', serif;
+  font-family: "Libre Caslon Display", serif;
   font-weight: 600;
   max-width: 80ch;
   margin: 0 auto;
+}
+
+table,
+th,
+td {
+  border: 3px solid var(--variable-strong-color);
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+img {
+  max-width: 500px;
+  justify-content: space-around;
+  margin: 0 auto;
+  border: 3px solid var(--variable-strong-color);
+}
+
+a {
+  color: #e60049;
+  text-decoration: none;
+}
+a:hover {
+  color: var(--variable-strong-color);
+}
+
+a:visited {
+  color: black;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  text-align: justify;
 }
