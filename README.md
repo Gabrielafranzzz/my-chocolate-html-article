@@ -7,8 +7,6 @@ Feel free to link this article to webpages related to the topic, such as:
 3. Farmers
 4. Value chain prices.
 
-Here is the link:
-
 ### LICENSE
 
 MIT License
