@@ -40,6 +40,7 @@ td {
   border: 3px solid var(--variable-strong-color);
   border-collapse: collapse;
   padding: 10px;
+  margin: auto;
 }
 
 img {
@@ -50,7 +51,7 @@ img {
 }
 
 a {
-  color: #e60049;
+  color: #e600497a;
   text-decoration: none;
 }
 a:hover {
@@ -58,7 +59,7 @@ a:hover {
 }
 
 a:visited {
-  color: black;
+  color: #e60049;
 }
 
 ul {

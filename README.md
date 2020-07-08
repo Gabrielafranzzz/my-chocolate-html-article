@@ -1,20 +1,19 @@
 ### This is my first static article, any suggestions are more than welcomed!
 
 Feel free to link this article to webpages related to the topic, such as:
+
 1. Chocolate
 2. Cocoa
-1. Farmers
-1. Value chain prices.
+3. Farmers
+4. Value chain prices.
 
 Here is the link:
 
-#### COPYRIGHTS
-The author of the content do not allow the use without her permission, to contact her please use the email connected to the github account.
-
 ### LICENSE
+
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [year][fullname]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -35,4 +34,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 #### CREDITS
+
 This project is part of CCL classes based in Leipzig, for more info access: https://codecampleipzig.de/
